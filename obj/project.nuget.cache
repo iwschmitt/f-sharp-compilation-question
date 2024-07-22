@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0vuFvIxXgwE/PNPUvu4ux4q4njSScnTTJdu+P6B9EF9HDyaV9qk8Yu3KJwG0qYyflH2SIeGGe0VR6KJzlzu5w==",
+  "success": true,
+  "projectFilePath": "/Users/iain/code/scratch/compilation-question/f-sharp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/iain/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
